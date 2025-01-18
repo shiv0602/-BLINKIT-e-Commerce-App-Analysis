@@ -1,5 +1,5 @@
 # -BLINKIT-e-Commerce-App-Analysis
-![https://github.com/shiv0602/-BLINKIT-e-Commerce-App-Analysis/blob/main/blinkit%20screenshot.png]
+![](https://github.com/shiv0602/-BLINKIT-e-Commerce-App-Analysis/blob/main/blinkit%20screenshot.png)
 BLINKIT e-Commerce app analysis
 BLINKIT e-Commerce app analysis
 Blinkit is an Indian quick- e-commerce marketplace that lets shoppers shop from their favorite stores in their neighborhood and get quick delivery With just a few taps, people can purchase groceries, fruits & vegetables, bakery items, flowers, meats, pet care, baby care, and cosmetics products
